@@ -1,0 +1,13 @@
+api_login = 'xxxxxxxx@xxx.com'
+api_password = '*******'
+get_token_url = "https://api.freightpop.com/token/getToken"
+get_tracking_url = "https://api.freightpop.com/Track/GetTracking"
+# get_tracking_url = "http://staging.freightpop.com/Track/GetTracking"
+post_shipment_url = "https://api.freightpop.com/shipment/externalShipment"
+# post_shipment_url = 'http://staging.freightpop.com/shipment/externalShipment'
+db_server = 'localhost'
+db_database = 'DB_NAME'
+db_user_name = 'xxxxxx'
+db_password = '*******'
+tracking_table_name = 'tbFreightPopContainerTracking'
+shipments_table_name = 'tbFreightPopOpenShipment_Send'
